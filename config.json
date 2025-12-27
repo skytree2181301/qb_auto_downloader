@@ -1,0 +1,17 @@
+{
+    "qbittorrent": {
+        "url": "http://localhost:8085",
+        "username": "admin",
+        "password": "List123$"
+    },
+    "rss_feeds": {
+		"TSDM": "https://share.dmhy.org/topics/rss/team_id/390/rss.xml",
+        "末日后酒店":"https://mikanani.me/RSS/Bangumi?bangumiId=3600&subgroupid=370"
+    },
+    "gemini": {
+        "api_key": "YOUR_API_KEY_HERE",
+        "model_name": "gemini-2.5-flash"
+    },
+    "default_download_path": "/downloads/Others",
+    "dry_run": false
+}
